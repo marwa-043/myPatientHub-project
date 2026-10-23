@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mypatienthub",
+=======
+  "name": "react-final-project",
+>>>>>>> 7f65cd5b984eaaf8e9b31591bb6f7c5ea4ab8882
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +14,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@base-ui/react": "^1.8.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
@@ -33,6 +38,10 @@
     "shadcn": "^4.21.1",
     "tailwindcss": "^4.3.3",
     "tw-animate-css": "^1.4.0"
+=======
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+>>>>>>> 7f65cd5b984eaaf8e9b31591bb6f7c5ea4ab8882
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
